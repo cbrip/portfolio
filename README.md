@@ -1,4 +1,4 @@
-## Freelance Web Designer & Developer based in Hertfordshire, UK.
+## Freelance Web Designer based in Hertfordshire, UK.
 
 You can use the [editor on GitHub](https://github.com/cbrip/portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
